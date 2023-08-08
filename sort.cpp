@@ -1,5 +1,7 @@
 #include <iostream>
 #include <algorithm>
+#include <vector>
+//fixed up version lol
 
 #define send {ios_base::sync_with_stdio(false);}
 #define help {cin.tie(NULL);}
